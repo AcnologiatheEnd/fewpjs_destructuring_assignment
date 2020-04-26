@@ -31,7 +31,7 @@ const [Bessie, , Dolly, Babe, Little] = farmAnimals.split(' ')
 const [black_and_white, , black, pink, ] = farmAnimals.split(' ')
 const [red, orange, yellow, green, blue, indigo, violet] = colors
 const [r, o, y, g, b, , v] = colors
-const [i] = indigo
+const [i] = co
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.

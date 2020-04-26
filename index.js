@@ -26,7 +26,7 @@ const k_muppet = {
 };
 
 
-const [moo, neigh] = farmAnimals.split(' ')
+const [moo, neigh, baa] = farmAnimals.split(' ')
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
